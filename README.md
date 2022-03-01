@@ -1,0 +1,2 @@
+# openfaas-static-template
+
